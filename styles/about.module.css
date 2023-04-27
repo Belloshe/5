@@ -1,0 +1,62 @@
+.main {
+    width: 100%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 60px; 
+  }
+  
+  .about {
+    width: 100%;
+    padding: 78px 0px;
+  }
+  
+  .me {
+    width: 100%;
+    max-width: 1130px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+
+  
+  .aboutText {
+    width: 100%;
+    max-width: 550px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .aboutText h1 {
+    color: rgb(0, 0, 0);
+    font-size: 65px;
+    text-transform: capitalize;
+    margin-bottom: 50px;
+  }
+  
+  .aboutText h5 {
+    color: rgb(0, 0, 0);
+    font-size: 45px;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+    letter-spacing: 2px;
+  }
+  
+  .aboutText p {
+    color: rgba(44, 37, 37, 0.553);
+    letter-spacing: 1px;
+    line-height: 30px;
+    font-size: 30px;
+    margin-bottom: 45px;
+    
+  }
+  
+  .about img {
+    height: auto;
+    width: 320px;
+    height: 200;
+  }
+  
